@@ -23,3 +23,6 @@ from  [https://gist.github.com/yehjames](https://gist.github.com/yehjames/7dbe46
 
     當發現了一個錯誤，就會修正權重w，直到不再發現錯誤為止。
     
+* 成果:       
+    
+    ![Alt text](photo/圖片3.png)
